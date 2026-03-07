@@ -194,11 +194,11 @@
       "variant": "high"
     },
     "unspecified-low": {
-      "model": "openai/gpt-5.3-codex-spark",
+      "model": "openai/gpt-5.3-codex",
       "reasoningEffort": "medium"
     },
     "unspecified-high": {
-      "model": "openai/gpt-5.3-codex-spark",
+      "model": "openai/gpt-5.3-codex",
       "reasoningEffort": "high"
     }
   }
